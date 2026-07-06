@@ -9,5 +9,5 @@ int main()
     printf(YOUR_NAME);
 
     printf("Add101\n");
-    printf("101");
+    printf("010");
 }
